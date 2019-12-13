@@ -1,0 +1,28 @@
+该系统的程序是在myeclipse上开发，并运行在Tomcat v8.5上，
+
+数据库使用的是MySQL数据库
+
+
+所以，在开发前还需要在计算机上安装myeclipse、mysql以及数据库管理软件
+
+在这里我用的数据库管理软件是navicat
+
+
+版本：
+myEclipse：myeclipse-ci-2018.12.0
+AddSupport
+mysql-5.7.24-winx64
+
+
+
+安装运行步骤：
+1.连接MySQL，打开navicat，将sql文件引入，完成数据库和表的创建
+
+2.在myEclipse下打开iSahre项目
+
+3.将“数据库中对应已经上传服务器的图片”下的两个文件夹放到下面的目录
+  你的项目路径\.metadata\.me_tcat85\webapps\iShare
+
+4.在myEclipse启动tomcat
+
+5.输入网址：http://localhost:8080/iShare/servlet/QueryInfo?method=listAll  运行

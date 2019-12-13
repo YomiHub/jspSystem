@@ -1,0 +1,21 @@
+该系统的程序是在idea2019.2.4上开发，并运行在Tomcat v8.5上，
+
+数据库使用的是MySQL数据库，使用到的数据库管理软件是navicat
+
+
+版本：
+myEclipse：idea2019.2.4
+
+
+MYSQL: mysql-5.7.24-winx64
+
+
+
+安装运行步骤：
+1.连接MySQL，打开navicat，将sql文件引入，完成数据库和表的创建
+
+2.在idea下打开wordmanage.zip(maven)
+
+3.在idea配置并启动tomcat
+
+5.访问web目录下的index.jsp运行项目

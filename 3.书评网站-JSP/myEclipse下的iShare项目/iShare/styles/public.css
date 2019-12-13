@@ -1,0 +1,18 @@
+/* 使用什么标签就给该标签清除默认样式 */
+
+body,ul,p,h1,h2,h3,h4,dl,dd,form,input,textarea,select { padding:0; margin:0; font-family:arial; }
+
+li {list-style: none;}
+
+img {border: none;}
+
+a {text-decoration: none;}
+
+a:hover {text-decoration: none;}
+
+input {background: none;border: none;outline: none;}
+
+/* 清除浮动 */
+.clear { zoom:1; }
+.clear:after { content:''; display:block; clear:both; }
+
