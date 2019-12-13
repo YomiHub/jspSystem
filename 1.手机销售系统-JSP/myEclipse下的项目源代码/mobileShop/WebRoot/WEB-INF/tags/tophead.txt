@@ -1,0 +1,20 @@
+﻿<%@ page contentType="text/html;charset=UTF-8"%>
+  <div align="center">
+    	<H2>"智多星"智能手机销售网</H2>
+    	<table cellSpacing="1" cellPadding="1" width="660" align="center" border="0">
+    		<tr valign="bottom">
+    			<td><a href="<%=registerPath%>"><font size=2>注册</font></a></td>
+    			<td><a href="<%=loginPath%>"><font size=2>登录</font></a></td>
+    			<td><a href="<%=classifyPath%>"><font size=2>浏览手机</font></a></td>
+    			<td><a href="<%=serchMobilePath%>"><font size=2>查询手机</font></a></td>
+    			<td><a href="<%=ShoppingCarPath%>"><font size=2>查看购物车</font></a></td>
+    			<td><a href="<%=lookOrderFormPath%>"><font size=2>查看订单</font></a></td>
+    			<td><a href="<%=changeRegisterPath%>"><font size=2>修改注册信息</font></a></td>
+    			<td><a href="<%=changePassPath%>"><font size=2>修改密码</font></a></td>
+    			<td><a href="http://localhost:8080/mobileShop/management/login.jsp"><font size=2>后台管理</font></a></td>
+    			
+    			<td><a href="<%=exitPath%>"><font size=2>退出</font></a></td>
+    			<td><a href="<%=indexPath%>"><font size=2>主页</font></a></td>
+    		</tr>
+    	</table>
+   </div>

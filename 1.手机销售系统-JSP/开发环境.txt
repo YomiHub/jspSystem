@@ -1,0 +1,15 @@
+该系统的程序是在myeclipse上开发，并运行在Tomcat v8.5上，
+
+数据库使用的是MySQL数据库
+
+
+所以，在开发前还需要在计算机上安装myeclipse、mysql以及数据库管理软件
+
+在这里我用的数据库管理软件是navicat
+
+
+版本：
+myEclipse：myeclipse-ci-2018.12.0
+AddSupport
+mysql-5.7.24-winx64
+

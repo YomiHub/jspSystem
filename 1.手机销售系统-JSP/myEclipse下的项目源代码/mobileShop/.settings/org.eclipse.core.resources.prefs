@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//WebRoot/assets/css/style.css=UTF-8
+encoding//WebRoot/pages/inputRegister.jsp=UTF-8
+encoding//WebRoot/pages/login.jsp=UTF-8
+encoding//WebRoot/toolLibs/dtree/dtree.js=UTF-8
+encoding//src/management/databaseImp/GoodsTypeDatabaseImpl.java=UTF-8
+encoding//src/management/databaseImp/UserDatabaseImpl.java=UTF-8
+encoding//src/management/servlet/GoodsManage.java=UTF-8
+encoding//src/management/servlet/GoodsTypeManage.java=UTF-8
+encoding//src/management/servlet/OrderFormManage.java=UTF-8
+encoding//src/management/servlet/UserManage.java=UTF-8
+encoding//src/management/tool/PageResult.java=UTF-8
+encoding//src/org/utils/FileUploadUtil.java=UTF-8

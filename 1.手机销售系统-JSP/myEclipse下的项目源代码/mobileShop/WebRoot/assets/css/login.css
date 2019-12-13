@@ -1,0 +1,42 @@
+html,body{
+     background: #EBEBEB;
+ }
+ }
+
+a{
+    outline: none;
+    text-decoration: none;
+}
+
+a:hover,a:focus{
+    outline: none;
+    text-decoration: none;
+}
+
+.formCss{
+	width:33.33%;
+	margin:0 auto; margin-top:100px;
+	padding:20px;
+	background:rgba(217,255,255,0.7);
+	font-size:14px;
+}
+
+.inputCss{
+	margin-bottom:10px;
+}
+
+#submBtn{
+	margin-top:10px;
+	margin-bottom:10px;
+	background:rgba(217,255,255,0.7);
+	border-radius: 5px;
+}
+
+.classifyform{
+  margin-top:10px;
+ }
+ 
+ .classifyinput{
+  margin-left:4px;
+ }
+

@@ -1,0 +1,73 @@
+body {
+	background-size: cover;
+	background: #fcfcfc;
+	font-size: 16px;
+}
+
+.row {
+	margin-left: 0;
+	margin-right: 0;
+}
+
+body .container {
+	margin-top: 40px;
+	margin-bottom: 50px;
+
+}
+
+#table th,
+#table tr {
+	text-align: center;
+}
+
+#table tr,
+#table tr td,
+#table th {
+	height: 50px;
+	line-height: 50px;
+}
+
+.exist{
+	cursor: pointer;
+}
+
+.navbar-right{margin-right:0;}
+
+.indexNav{
+	background:#ffffff;
+	padding-top:20px;
+	padding-bottom: 20px;
+}
+
+
+.pagination a{
+	cursor: pointer;
+}
+
+p{
+	padding:0;margin:0;
+}
+
+.delete{
+	width:40px; height:40px;position:absolute; right:15px;text-align:center; line-height:40px;background:#242424;
+	color:#ffffff;
+	cursor: pointer;
+}
+
+
+
+.tips {
+	/*¹Ì¶¨¶¨Î»*/
+	position: fixed;
+	top: 20%;
+	left:25%;
+	background:#fb4262;
+	width: 500px;
+	height: 40px;
+	line-height: 40px;
+	margin-left:250px;
+	text-align: center;
+	color:#ffffff;
+	font-size:22px;
+	display: none;
+}
